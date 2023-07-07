@@ -149,7 +149,7 @@ Please make sure to adjust the code examples, payload structure, and response fo
 
 The project is deployed and can be accessed at the following link:
 [Click here to visit the deployed site](https://syed2605-varthak.cyclic.app/)
-
+and hit the above endpoints with payloads,tokens as mentioned above.
 
 ## License
 
