@@ -145,6 +145,12 @@ Please make sure to adjust the code examples, payload structure, and response fo
     The request payload should include the details of the book to be created.
 - GET `/books`: Retrieves books based on user role and filters (requires appropriate roles and query parameters).
 
+## Deployment
+
+The project is deployed and can be accessed at the following link:
+[Click here to visit the deployed site](https://syed2605-varthak.cyclic.app/)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
